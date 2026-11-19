@@ -1,0 +1,11 @@
+# Maven build outputs & Allure reports
+target/
+
+# VS Code & Java extension files
+.vscode/
+.classpath
+.project
+.settings/
+
+# macOS system files
+.DS_Store
